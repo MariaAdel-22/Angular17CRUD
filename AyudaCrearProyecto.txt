@@ -1,0 +1,13 @@
+Visual studio code
+Node.js
+Angular
+
+npm install -g @angular/cli
+ng new angularform //creamos proyecto
+cd angularform // entramos al proyecto
+
+npm install bootstrap
+npm i @popperjs/core
+
+ng serve
+https://therichpost.com/angular-17-crud-tutorial-working-example/
